@@ -1,9 +1,8 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using System;
-using ArmTheHomeless.Components;
 
-namespace ArmTheHomeless.MonoGame.TP
+namespace ArmTheHomeless.Tanks
 {
     public class Terrain
     {

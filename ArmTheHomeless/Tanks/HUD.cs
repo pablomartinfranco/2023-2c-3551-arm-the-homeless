@@ -1,9 +1,8 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Content;
-using ArmTheHomeless.Constants;
 
-namespace ArmTheHomeless.MonoGame.TP
+namespace ArmTheHomeless.Tanks
 {
     public class HUD
     {

@@ -1,5 +1,5 @@
 
-namespace ArmTheHomeless.Constants
+namespace ArmTheHomeless.Tanks
 {
     public abstract class Assets
     {

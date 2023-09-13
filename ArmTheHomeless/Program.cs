@@ -1,6 +1,7 @@
 ﻿using System;
+using ArmTheHomeless.Tanks;
 
-namespace ArmTheHomeless.MonoGame.TP
+namespace ArmTheHomeless
 {
     public static class Program
     {

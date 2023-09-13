@@ -2,10 +2,8 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
-using ArmTheHomeless.Components;
-using ArmTheHomeless.Constants;
 
-namespace ArmTheHomeless.MonoGame.TP
+namespace ArmTheHomeless.Tanks
 {
     public class TanksGame : Game
     {
