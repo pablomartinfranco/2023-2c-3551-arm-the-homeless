@@ -1,9 +1,9 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using System;
-using TGC.Components;
+using ArmTheHomeless.Components;
 
-namespace TGC.MonoGame.TP
+namespace ArmTheHomeless.MonoGame.TP
 {
     public class Terrain
     {

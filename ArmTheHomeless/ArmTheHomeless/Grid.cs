@@ -1,7 +1,7 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
-namespace TGC.Components
+namespace ArmTheHomeless.Components
 {
     public class Grid
     {

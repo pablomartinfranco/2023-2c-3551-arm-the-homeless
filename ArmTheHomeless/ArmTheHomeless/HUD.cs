@@ -1,9 +1,9 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Content;
-using TGC.Constants;
+using ArmTheHomeless.Constants;
 
-namespace TGC.MonoGame.TP
+namespace ArmTheHomeless.MonoGame.TP
 {
     public class HUD
     {

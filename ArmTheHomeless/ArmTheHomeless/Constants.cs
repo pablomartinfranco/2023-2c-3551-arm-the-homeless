@@ -1,5 +1,5 @@
 
-namespace TGC.Constants
+namespace ArmTheHomeless.Constants
 {
     public abstract class Assets
     {

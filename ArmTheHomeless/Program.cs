@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TGC.MonoGame.TP
+namespace ArmTheHomeless.MonoGame.TP
 {
     public static class Program
     {
